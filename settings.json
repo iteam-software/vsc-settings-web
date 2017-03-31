@@ -1,9 +1,5 @@
-// Place your settings in this file to overwrite the default settings
 {
-  // Language settings
   "css.validate": false,
-
-  // File settings
   "files.associations": {
     "*.css": "PostCSS"
   },
@@ -16,11 +12,7 @@
     "tmp": true,
     "vendor": true
   },
-
-  // Extension settings
   "stylelint.enable": true,
-
-  // Editor settings
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
   "editor.minimap.enabled": true,
@@ -30,15 +22,9 @@
   "editor.rulers": [ 97 ],
   "editor.tabSize": 2,
   "editor.wordWrapColumn": 97,
-
-  // Window settings
-  "window.zoomLevel": 0,  
-  
-  // Git settings
+  "window.zoomLevel": 0,
   "git.confirmSync": false,
   "git.autofetch": false,
-
-  // Workbench settings (themeing)
   "workbench.colorTheme": "Default Dark+",
   "workbench.iconTheme": "vs-seti"
 }
