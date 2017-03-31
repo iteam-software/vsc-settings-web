@@ -1,7 +1,7 @@
 {
   "css.validate": false,
   "files.associations": {
-    "*.css": "PostCSS"
+    "*.css": "postcss"
   },
   "files.eol": "\n",
   "files.exclude": {

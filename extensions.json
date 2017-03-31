@@ -5,6 +5,7 @@
     "ecmel.vscode-html-css",
     "Orta.vscode-jest",
     "shinnn.stylelint",
-    "Tyriar.sort-lines"
+    "Tyriar.sort-lines",
+    "ricard.PostCSS"
   ]
 }
