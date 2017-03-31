@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dzannotti.vscode-babel-coloring",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "Orta.vscode-jest",
+    "shinnn.stylelint",
+    "Tyriar.sort-lines"
+  ]
+}
