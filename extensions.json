@@ -6,6 +6,7 @@
     "Orta.vscode-jest",
     "shinnn.stylelint",
     "Tyriar.sort-lines",
-    "ricard.PostCSS"
+    "ricard.PostCSS",
+    "msjsdiag.debugger-for-chrome"
   ]
 }
