@@ -18,6 +18,18 @@ Run the following command:
 git submodule init
 ```
 
+### Debugging in Chrome (React)
+1. Install the recommended chrome debugger in VS Code.
+2. Run the application
+```
+npm start
+```
+3. Start a debugging session (By hitting <kbd>F5</kbd> or by starting in the debug sidebar).
+4. Set your breakpoint.
+5. Debug.
+
+Note: You must use the window that the debug session started. Do not close it, unless you wish to end your debug session.
+
 ## Authors
 iTEAM Consulting Software Development Team
 
