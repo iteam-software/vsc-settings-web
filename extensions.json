@@ -7,6 +7,7 @@
     "shinnn.stylelint",
     "Tyriar.sort-lines",
     "ricard.PostCSS",
-    "msjsdiag.debugger-for-chrome"
+    "msjsdiag.debugger-for-chrome",
+    "PKief.material-icon-theme"
   ]
 }
