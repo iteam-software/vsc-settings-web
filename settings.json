@@ -11,7 +11,7 @@
     "node_modules": true,
     "tmp": true,
     "vendor": true,
-    ".meteor": true
+    ".meteor/local": true
   },
   "stylelint.enable": true,
   "editor.detectIndentation": false,
