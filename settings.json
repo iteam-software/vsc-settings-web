@@ -10,7 +10,8 @@
     "jspm_packages": true,
     "node_modules": true,
     "tmp": true,
-    "vendor": true
+    "vendor": true,
+    ".meteor": true
   },
   "stylelint.enable": true,
   "editor.detectIndentation": false,
