@@ -10,7 +10,8 @@
     "jspm_packages": true,
     "node_modules": true,
     "tmp": true,
-    "vendor": true
+    "vendor": true,
+    ".meteor/local": true
   },
   "stylelint.enable": true,
   "emmet.includeLanguages": {
@@ -32,5 +33,5 @@
   "git.confirmSync": false,
   "git.autofetch": false,
   "workbench.colorTheme": "Default Dark+",
-  "workbench.iconTheme": "vs-seti"
+  "workbench.iconTheme": "material-icon-theme"
 }
