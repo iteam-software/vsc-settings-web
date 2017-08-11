@@ -13,6 +13,9 @@
     "vendor": true
   },
   "stylelint.enable": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
   "editor.minimap.enabled": true,
