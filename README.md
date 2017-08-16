@@ -13,9 +13,10 @@ This settings package uses [Fira Code](https://github.com/tonsky/FiraCode) with 
 *Note: make sure you are not ignoring the `.vscode` directory*
 
 ### Cloning a Repo With This Submodule
-Run the following command:
+Run the following commands:
 ```
 git submodule init
+git submodule update
 ```
 
 ### Debugging in Chrome (React)
