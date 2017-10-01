@@ -17,6 +17,9 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
   "editor.minimap.enabled": true,
