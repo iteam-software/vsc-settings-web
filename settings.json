@@ -10,7 +10,6 @@
     "jspm_packages": true,
     "node_modules": true,
     "tmp": true,
-    "vendor": true,
     ".meteor/local": true
   },
   "stylelint.enable": true,
