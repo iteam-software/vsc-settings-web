@@ -35,5 +35,6 @@
   "git.confirmSync": false,
   "git.autofetch": false,
   "workbench.colorTheme": "Default Dark+",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
 }
