@@ -1,16 +1,29 @@
 {
-    "version": "1.0.0",
-    "configurations": [
-        {
-            "name": "Chrome",
-            "type": "chrome",
-            "request": "launch",
-            "url": "http://localhost:3000",
-            "webRoot": "${workspaceRoot}/src",
-            "userDataDir": false,
-            "sourceMapPathOverrides": {
-                "webpack:///src/*": "${webRoot}/*"
-            }
-        }
-    ]
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Meteor: Chrome",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceRoot}"
+    },
+    {
+      "type": "node",
+      "request": "attach",
+      "name": "Meteor: Node",
+      "port": 9229,
+      "outFiles": ["${workspaceRoot}/.meteor/local/build/programs/server/app/**/*.js"],
+      "sourceMaps": true
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Meteor: All",
+      "configurations": [
+        "Meteor: Node",
+        "Meteor: Chrome"
+      ]
+    }
+  ]
 }
