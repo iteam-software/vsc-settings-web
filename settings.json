@@ -10,7 +10,6 @@
     "jspm_packages": true,
     "node_modules": true,
     "tmp": true,
-    "vendor": true,
     ".meteor/local": true
   },
   "stylelint.enable": true,
@@ -36,5 +35,6 @@
   "git.confirmSync": false,
   "git.autofetch": false,
   "workbench.colorTheme": "Default Dark+",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
 }
