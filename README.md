@@ -13,22 +13,11 @@ This settings package uses [Fira Code](https://github.com/tonsky/FiraCode) with 
 *Note: make sure you are not ignoring the `.vscode` directory*
 
 ### Cloning a Repo With This Submodule
-Run the following command:
+Run the following commands:
 ```
 git submodule init
+git submodule update
 ```
-
-### Debugging in Chrome (React)
-1. Install the recommended chrome debugger in VS Code.
-2. Run the application
-```
-npm start
-```
-3. Start a debugging session (By hitting <kbd>F5</kbd> or by starting in the debug sidebar).
-4. Set your breakpoint.
-5. Debug.
-
-Note: You must use the window that the debug session started. Do not close it, unless you wish to end your debug session.
 
 ## Authors
 iTEAM Consulting Software Development Team
