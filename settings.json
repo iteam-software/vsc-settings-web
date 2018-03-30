@@ -30,5 +30,5 @@
   "git.confirmSync": false,
   "git.autofetch": false,
   "workbench.colorTheme": "Default Dark+",
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "vs-seti"
 }
