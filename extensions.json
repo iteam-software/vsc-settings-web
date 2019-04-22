@@ -7,6 +7,7 @@
     "Tyriar.sort-lines",
     "ricard.PostCSS",
     "msjsdiag.debugger-for-chrome",
-    "PKief.material-icon-theme"
+    "PKief.material-icon-theme",
+    "sibiraj-s.vscode-scss-formatter"
   ]
 }
